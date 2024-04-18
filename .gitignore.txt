@@ -1,1 +1,1 @@
-/GNU
+/libs/GNU
