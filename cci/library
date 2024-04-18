@@ -1,0 +1,4 @@
+strmp( char * s1, char * s2) : comapres two strings, returns 0 of the yare the same
+bsearch(&key, items, num_items, sizeof(item), cmp) : returns the found item from items which matches the key via cmp comparison
+(size + size < size) : is a good way to check overflow 
+void poiner : is one that has no associated type with it. A void pointer can can hold an adress of any type and can be typecasted to any type

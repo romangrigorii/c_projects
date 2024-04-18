@@ -1,0 +1,4 @@
+gcc -g c_dynamic\ _array.c -o a.exe
+valgrind --leak-check=yes --log-file=valgrind.rpt ./a.exe
+
+https://benhoyt.com/writings/hash-table-in-c/

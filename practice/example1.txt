@@ -1,0 +1,4 @@
+this is
+a regular file
+for testing my
+awesome functions
